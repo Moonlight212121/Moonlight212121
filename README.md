@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moonlight212121
 - 👀 I’m interested in javaScript,html,css,nodejs and maybe some minecraft modding
-- 🌱 I’m currently learning everything up there
+- 🌱 I’m currently learning nodejs, discord bot making
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :you can dm me on discord at @moonlight212121
 
